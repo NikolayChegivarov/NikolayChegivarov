@@ -1,12 +1,23 @@
-👋 Привет!
+## Привет! 👋 
 
-Я Николай Гусаров разработчик на python.
+Я **Николай Гусаров** разработчик на python.
 
-Вот что я умею: 
+### Вот что я умею: 
 
-Python репозиторий с домашними работами
-Django репозитории с домашними работами по Django
-Flask, Asyncio, Aiohttp, Docker, Docker-compose
+[Python](https://github.com/NikolayChegivarov?tab=repositories 
+"репозитории с домашними работами")
+[Django](https://github.com/NikolayChegivarov/Dj 
+"репозиторий с домашними работами по Django")
+[Flask](https://github.com/NikolayChegivarov/flask 
+"репозиторий с домашними работами по Flask")
+[Asyncio](https://github.com/NikolayChegivarov/asyncio 
+"репозиторий с домашними работами по Asyncio")
+[Aiohttp](https://github.com/NikolayChegivarov/Aiohttp- 
+"репозиторий с домашними работами по Aiohttp")
+[Docker](https://github.com/NikolayChegivarov/docker 
+"репозиторий с домашними работами по Docker")
+[Docker-compose](https://hub.docker.com/repositories/nixon1985 
+"Мой Docker Hub")  
 
 Сертификаты Нетологии:  
 ["Python разработчик с нуля до middle"](https://drive.google.com/file/d/1WDc0NwTUKbHFwczaJX-0dY5_G7qsA6V8/view?usp=sharing 
