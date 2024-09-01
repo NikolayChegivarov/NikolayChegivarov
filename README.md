@@ -26,12 +26,12 @@ Flask, Asyncio, Aiohttp, Docker, Docker-compose
 "certificate")  
 ["Основы Python: создаем телеграм-бота"](https://drive.google.com/file/d/1NtcSVecsyxauanDvAZzZC8ttBqrDrPSO/view?usp=sharing 
 "certificate")  
-[Основы статистики](https://drive.google.com/file/d/1HpsN6iUpAEpQdxsBwX_qgijy3bdTEZjQ/view?usp=sharing 
+["Основы статистики"](https://drive.google.com/file/d/1HpsN6iUpAEpQdxsBwX_qgijy3bdTEZjQ/view?usp=sharing 
 "certificate")  
-[Продуктовый подход для аналитика](https://drive.google.com/file/d/1Od2fRwkoUtmO170Q60oxqDyycx1uM5fA/view?usp=sharing 
+["Продуктовый подход для аналитика"](https://drive.google.com/file/d/1Od2fRwkoUtmO170Q60oxqDyycx1uM5fA/view?usp=sharing 
 "certificate")  
-
-
+["Основы языка программирования Python"](https://drive.google.com/file/d/1Od2fRwkoUtmO170Q60oxqDyycx1uM5fA/view?usp=sharing 
+"certificate")  
 
 
 <!---
