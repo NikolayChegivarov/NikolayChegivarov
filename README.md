@@ -19,7 +19,8 @@
 [Docker-compose](https://hub.docker.com/repositories/nixon1985 
 "Мой Docker Hub")    
 
-Сертификаты Нетологии:  
+### Сертификаты Нетологии:    
+
 ["Python разработчик с нуля до middle"](https://drive.google.com/file/d/1WDc0NwTUKbHFwczaJX-0dY5_G7qsA6V8/view?usp=sharing 
 "certificate")  
 ["Python в web разработке"](https://drive.google.com/file/d/1dPJAm0Q38Vq3FHnGWBR0pFXnK3CIz5Av/view?usp=sharing 
